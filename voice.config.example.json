@@ -1,0 +1,14 @@
+{
+  "name": "Your name",
+  "timezone": "UTC",
+  "preferences": [],
+  "heldoutPerSource": 20,
+  "maxSkillTokens": 2600,
+  "sources": [
+    {
+      "name": "personal-discord",
+      "format": "discord",
+      "path": "data/raw/discord"
+    }
+  ]
+}

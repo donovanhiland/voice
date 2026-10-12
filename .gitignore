@@ -1,0 +1,9 @@
+node_modules/
+data/
+output/
+voice.config.json
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
