@@ -18,7 +18,7 @@ Open the folder in your coding agent and say:
 
 > Read AGENTS.md and help me build a voice skill from my messages. Guide me through exports, setup, and reviewing the first drafts. Start with the easiest source I can access.
 
-Claude Code also reads the included CLAUDE.md pointer. Other agents can read AGENTS.md explicitly. No particular model, API key, or subscription is required by the scripts.
+Agents can read AGENTS.md directly. No particular model, API key, or subscription is required by the scripts.
 
 Try the complete local build with fictional data first:
 
